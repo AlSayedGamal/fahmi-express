@@ -1,0 +1,16 @@
+{
+  "name": "fahmi-express",
+  "version": "0.0.1",
+  "description": "Fahmi, chat bot framework for expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "facebook"
+  ],
+  "author": "AlSayed Gamal <mail.gamal@gmail.com> (http://alsayedgamal.com)",
+  "license": "CC BY-SA 2.0"
+}
